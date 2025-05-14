@@ -1,11 +1,35 @@
-<img align="center" alt="Coding" width="400" src="https://64.media.tumblr.com/02210e64d8911897fd51c6b3c851d3d5/1c2857192b1c8277-84/s400x600/936f1ecc149c85ecefa8f449018956e7382283d5.gifv">
+<p align="center">
 <img
-align="left"
 src="https://github-readme-stats.vercel.app/api?username=loser666code&theme=dark&hide_border=false&include_all_commits=true"
 alt="Github Stats"
 />
+</p>
+<p align="center">
 <img
-align="left"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=loser666code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
 alt="Github Stats"
 />
+</p>
+<p align="center">
+<img
+src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+/>
+<img
+src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+/>
+<img
+src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"
+/>
+</p>
