@@ -1,35 +1,18 @@
+<div align="center">
 <p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api?username=loser666code&theme=dark&hide_border=false&include_all_commits=true"
-alt="Github Stats"
-/>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Camila%20Schmidt;Student%20of%20IFSC%20and%20ENTRA21;falling%20in%20love%20with%20code;Foever%20learning&font=Fira%20Code&center=true&width=440&height=45&color=00b4d8&vCenter=true&pause=1000&size=22" />
+</a>
 </p>
-<p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=loser666code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-alt="Github Stats"
-/>
-</p>
-<p align="center">
-<img
-src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
-/>
-<img
-src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-/>
-<img
-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-/>
-<img
-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
-/>
-<img
-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-/>
-<img
-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-/>
-<img
-src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"
-/>
-</p>
+<pre>
+  Ensino medio tecnico de Informatica . . . 5 > 6 fase &star; tambem cursando o curso de Java do projeto ENTRA21!
+  &star; Ainda explorando e descobrindo meu caminho na programcao mas sempre aprendendo &star;
+  &hearts; CyberGoth / Aggrotech &hearts; Artes &hearts; Livros &hearts; fotografia &hearts;
+</pre>
+<img height = 25px src="https://64.media.tumblr.com/7ab2828a3da6fc6e009e02122017f7ec/96620b0913cc30d5-d2/s2048x3072/a93334fbb22f83f24fc9b2d4cfdb56d7abc05ff8.pnj"/>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=loser666code&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="loser's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loser666code&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<img src="https://profile-counter.glitch.me/loser666code/count.svg" alt="hit counter" align="center">
+</div>
