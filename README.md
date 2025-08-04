@@ -14,5 +14,4 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=loser666code&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="loser's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loser666code&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<img src="https://profile-counter.glitch.me/loser666code/count.svg" alt="hit counter" align="center">
 </div>
