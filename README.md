@@ -5,7 +5,7 @@
 </a>
 </p>
 <pre>
-  Ensino medio tecnico de Informatica . . . 5 > 6 fase &star; tambem cursando o curso de Java do projeto ENTRA21!
+  Ensino medio tecnico de Informatica . . . 6 fase &star; tambem cursando o curso de Java do projeto ENTRA21!
   &star; Ainda explorando e descobrindo meu caminho na programcao mas sempre aprendendo &star;
   &hearts; CyberGoth / Aggrotech &hearts; Artes &hearts; Livros &hearts; fotografia &hearts;
 </pre>
