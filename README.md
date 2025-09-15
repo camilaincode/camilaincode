@@ -1,11 +1,11 @@
 <div align="center">
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Camila%20Schmidt;Student%20of%20IFSC%20and%20ENTRA21;falling%20in%20love%20with%20code;Foever%20learning&font=Fira%20Code&center=true&width=440&height=45&color=00b4d8&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Camila%20Schmidt;Student%20of%20IFSC;falling%20in%20love%20with%20code;Foever%20learning&font=Fira%20Code&center=true&width=440&height=45&color=00b4d8&vCenter=true&pause=1000&size=22" />
 </a>
 </p>
 <pre>
-  Ensino medio tecnico de Informatica . . . 6 fase &star; tambem cursando o curso de Java do projeto ENTRA21!
+  Ensino medio tecnico de Informatica . . . 6 fase &star;
   &star; Ainda explorando e descobrindo meu caminho na programcao mas sempre aprendendo &star;
   &hearts; CyberGoth / Aggrotech &hearts; Artes &hearts; Livros &hearts; fotografia &hearts;
 </pre>
