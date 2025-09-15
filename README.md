@@ -11,7 +11,7 @@
 </pre>
 <img height = 25px src="https://64.media.tumblr.com/7ab2828a3da6fc6e009e02122017f7ec/96620b0913cc30d5-d2/s2048x3072/a93334fbb22f83f24fc9b2d4cfdb56d7abc05ff8.pnj"/>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=loser666code&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="loser's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loser666code&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=camilaincode&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="loser's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaincode&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </div>
