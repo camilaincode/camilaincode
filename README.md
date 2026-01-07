@@ -1,17 +1,12 @@
 <div align="center">
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Camila%20Schmidt;Student%20of%20IFSC;falling%20in%20love%20with%20code&font=Fira%20Code&center=true&width=440&height=45&color=00b4d8&vCenter=true&pause=1000&size=22" />
-</a>
-</p>
+<h1 align="center">Hi, I'm Camila Schmidt ⟡ ݁₊ .</h1>
 <pre>
-  Ensino medio tecnico de Informatica . . . 6 fase &star;
-  &star; Ainda explorando e descobrindo meu caminho na programcao mas sempre aprendendo &star;
-  &hearts; CyberGoth / Aggrotech &hearts; Artes &hearts; Livros &hearts; fotografia &hearts;
+  &star;recent graduate student of technical high school in programming from Brazil &star;
+    <br>currently learning web development<br>
 </pre>
-<img height = 25px src="https://64.media.tumblr.com/7ab2828a3da6fc6e009e02122017f7ec/96620b0913cc30d5-d2/s2048x3072/a93334fbb22f83f24fc9b2d4cfdb56d7abc05ff8.pnj"/>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=camilaincode&show_icons=true&include_all_commits=true&theme=neon&hide_border=true" alt="camila's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaincode&layout=compact&theme=neon&hide_border=true" /></a> |
-| ------------- | ------------- |
 
+<h2 align="center">Studying ⋆✴︎˚｡⋆ .</h2>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </div>
